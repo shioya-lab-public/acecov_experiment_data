@@ -1,0 +1,3 @@
+fuzzers: "aflpp"
+benchmarks: "curl_curl_fuzzer_http freetype2_ftfuzzer harfbuzz_hb-shape-fuzzer libjpeg-turbo_libjpeg_turbo_fuzzer libpcap_fuzz_both libpng_libpng_read_fuzzer libxml2_xml libxslt_xpath openssl_x509 re2_fuzzer stb_stbi_read_fuzzer vorbis_decode_fuzzer woff2_convert_woff2ttf_fuzzer"
+experiment_name: "aflpp-128kb-24h"
